@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2017\Projects\ClassLessonHW\ClassLessonHW\bin\Debug\ClassLessonHW.exe.config
+c:\users\1\documents\visual studio 2017\Projects\ClassLessonHW\ClassLessonHW\bin\Debug\ClassLessonHW.exe
+c:\users\1\documents\visual studio 2017\Projects\ClassLessonHW\ClassLessonHW\bin\Debug\ClassLessonHW.pdb
+c:\users\1\documents\visual studio 2017\Projects\ClassLessonHW\ClassLessonHW\obj\Debug\ClassLessonHW.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2017\Projects\ClassLessonHW\ClassLessonHW\obj\Debug\ClassLessonHW.exe
+c:\users\1\documents\visual studio 2017\Projects\ClassLessonHW\ClassLessonHW\obj\Debug\ClassLessonHW.pdb
